@@ -1,5 +1,7 @@
 ### IntelliJ IDEA ###
 out/
+.idea
+classes2.iml
 !**/src/main/**/out/
 !**/src/test/**/out/
 
